@@ -1,2 +1,2 @@
-# Home_Work_Hillel
+# Home-Work Hillel
 My HW from Hillel IT school 
